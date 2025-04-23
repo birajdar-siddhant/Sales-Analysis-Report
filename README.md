@@ -1,5 +1,5 @@
 # Sales-Analysis-Report
-Interactive mobile sales report built with Excel and Power BI to uncover trends and performance insights.
+Interactive sales analysis report built with Excel and Power BI to uncover trends and performance insights.
 
 ## Overview
 This project showcases a data analysis and interactive dashboard on mobile phone sales using Microsoft Excel and Power BI. It aims to uncover trends, top-performing products, and regional sales performance to support strategic business decisions.
